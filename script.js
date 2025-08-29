@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual sua preferência por carros?",
+        enunciado: "Qual motor de moto e mais resistente para fuça?",
         alternativas: [
             {
-                texto: "SUV",
+                texto: "motor de 150",
                 afirmacao: "Você é uma pessoa que gosta de conforto e marcha automática."
             },
             {
-                texto:  "Vintage",
+                texto:  "motor de XRE 300",
                 afirmacao: "Você é uma pessoa com bom gosto, gosta do clássico atemporal."
             }    
            
