@@ -35,15 +35,15 @@ const perguntas = [
             ]
         },
         {
-            enunciado: "Qual desses é um piloto de carros de corrida?",
+            enunciado: "Qual desses é um piloto de racha ?",
 
             alternativas: [
                 {
-                    texto: "Brad Pitt.",
+                    texto: "carlin do barrulho.",
                     afirmacao: "Você não tem cultura, ele é ator, apenas protagonizou o filme Fórmula 1."
                 },
                 {
-                    texto:    "Niki Lauda.",
+                    texto:    "carlin trink.",
                
                     afirmacao: "Parabéns, você tem cultura."
                 }    
