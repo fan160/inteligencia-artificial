@@ -21,15 +21,15 @@ const perguntas = [
     },
     {
        
-            enunciado: "Oque você busca em um carro?",
+            enunciado: "Oque você busca em uma moto fuçada?",
             alternativas: [
                 {
-                    texto: "Velocidade, conforto e estética.",
+                    texto: "Velocidade.",
                     afirmacao: "Você tem estilo e adora uma corrida."
                 },
                 {
-                    texto:  "Modernidade, conforto e simplicidade.",
-                    afirmacao: "Você não tem estilo e odeia manter seu carro em bom estado."
+                    texto:  "estilo.",
+                    afirmacao: "Você não tem estilo e odeia manter sua moto em bom estado."
                 }    
                
             ]
