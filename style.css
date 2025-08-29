@@ -1,9 +1,9 @@
 :root{
-    --cor-fundo: #1b0218;
-    --cor-principal: #030c4f7b ;
-    --cor-secundaria: #041948;
-    --cor-destaque: #950606;
-    --cor-texto: #951212;
+    --cor-fundo: #000000;
+    --cor-principal: #C0C0C0 ;
+    --cor-secundaria: #000000;
+    --cor-destaque: #000000;
+    --cor-texto: #ff0022;
 }
 
 body{
@@ -40,3 +40,4 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
