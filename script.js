@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "motor de 150",
-                afirmacao: "Você é uma pessoa que gosta de conforto e marcha automática."
+                afirmacao: "Você é uma pessoa que gosta de motor fuçadão."
             },
             {
                 texto:  "motor de XRE 300",
-                afirmacao: "Você é uma pessoa com bom gosto, gosta do clássico atemporal."
+                afirmacao: "Você é uma pessoa que nãotem bom gosto."
             }    
            
         ]
